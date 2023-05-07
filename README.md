@@ -6,6 +6,6 @@
 Иначе false.
 8. find_backward - находит первый элемент, равный заданному, с конца
 
-Реализация в файлах CustomPredict
+Реализация в файлах </src/Predicts/>
 
 Также есть CPoint, CRational в соотвествующих файлах </CPredictEx.%"NAME"%.h>
